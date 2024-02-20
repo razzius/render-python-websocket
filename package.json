@@ -1,0 +1,15 @@
+{
+  "name": "render-python-websocket",
+  "version": "1.0.0",
+  "description": "jk it's actually a nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
